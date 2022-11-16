@@ -1,0 +1,14 @@
+{
+  "name": "translation-key-management",
+  "version": "1.0.0",
+  "description": "Sync your key store of lang at google sheet to your project",
+  "main": "index.js",
+  "repository": "git@github.com:tioprstyo/translation-key-management.git",
+  "author": "tioprstyo",
+  "license": "MIT",
+  "private": "false",
+  "dependencies": {
+    "@types/node-fetch": "^2.6.2",
+    "node-fetch": "2"
+  }
+}
